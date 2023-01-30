@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <INVENTORY> 
+ <BOOK>
+ <TITLE>Приключения Тома Сойера</title>
+ <AUTHOR>Марк Твен</AUTHOR>
+ <BINDING>Массовый рынок Мягкая обложка </BINDING>
+ <PAGES>298</PAGES>
+ <PRICE>$5.49</PRICE> 
+ </BOOK> 
+ <BOOK>
+ <TITLE>Война и мир</TITLE>>
+ <AUTHOR>Лев Толстой</AUTHOR>
+ <BINDING>твердая обложка</BINDING>
+ <PAGES>462</PAGES>
+ <PRICE>$7.75</PRICE> 
+ </BOOK> 
+ <TITLE>Преступление и наказание</TITLE>
+ <AUTHOR>Федор Достоевский</AUTHOR>
+ <BINDING>Массовый рынок Мягкая обложка</BINDING>
+ <PAGES>98</PAGES>
+ <PRICE>$2.95</PRICE>
+ </BOOK> 
+ <BOOK>
+ <TITLE>Архипелаг Гулаг</TITLE>
+ <AUTHOR>Александр Солженицын</AUTHOR>
+ <BINDING>Мягкая обложка</BINDING>
+ <PAGES>473</PAGES>
+ <PRICE>$10.95</PRICE> 
+ <BOOK>
+ <TITLE>Мастер и Маргарита</TITLE>
+ <AUTHOR>Михаил Булгаков</AUTHOR>
+ <BINDING>твердая обложка</BINDING>
+ <PAGES>724</PAGES>
+ <PRICE>$9.95</PRICE> 
+ </BOOK> 
+ <BOOK>
+ <TITLE>Человек-амфибия<TITLE>
+ <AUTHOR>Александр Беляев</AUTHOR>
+ <BINDING>Массовый рынок Мягкая обложка</BINDING>
+ <PAGES>256</PAGES>
+ <PRICE>$4.95</PRICE> 
+ </BOOK> 
+ <BOOK>
+ <TITLE>Капитанская дочь</TITLE>
+ <AUTHOR>Александр Пушкин</AUTHOR>
+ <BINDING>Мягкая обложка</BINDING>
+ <PAGES>253</PAGES>
+ <PRICE>$4.25</PRICE> 
+ </BOOK> 
+ <BOOK>
+ <TITLE>Дворянское гнездо</TITLE>
+ <AUTHOR>Иван Тургенев<AUTHOR>
+ <BINDING>Мягкая обложка</BINDING>
+ <PAGES>384</PAGES>
+ <PRICE>$3.35</PRICE> 
+ </BOOK> 
+ </inventory>
